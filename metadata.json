@@ -1,0 +1,6 @@
+{
+  "name": "V WIN Enterprises",
+  "description": "Professional Home Appliances Sales, Repair, Maintenance & Technical Services by V WIN Enterprises (V WIN Home Appliances).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
