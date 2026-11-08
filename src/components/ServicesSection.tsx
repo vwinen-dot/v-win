@@ -77,7 +77,7 @@ export const ServicesSection: React.FC<ServicesSectionProps> = ({ onBookService 
             {/* 3D Image Container */}
             <div className="lg:col-span-7 relative group overflow-hidden bg-slate-950">
               <img
-                src="/src/assets/images/gas_stove_repair_3d_1794142113532.jpg"
+                src="/src/assets/images/gas_stove_repair_3d.png"
                 alt="Expert technician repairing modern gas stove with 3D exploded view of brass gas valve and spark ignition"
                 className="w-full h-[320px] sm:h-[400px] lg:h-[440px] object-cover group-hover:scale-[1.02] transition-transform duration-500"
                 loading="lazy"

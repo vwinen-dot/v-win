@@ -175,7 +175,7 @@ export const REPAIR_SERVICES: ApplianceServiceItem[] = [
     commonIssues: ['Low yellow flame', 'Gas smell / valve leakage', 'Ignition spark failure', 'Clogged burner jets'],
     serviceScope: ['Burner orifice cleaning', 'Gas valve re-greasing', 'Thermocouple check', 'Flame pressure balancing'],
     turnaroundTime: 'Same-day / On-demand diagnosis',
-    image: '/src/assets/images/gas_stove_repair_3d_1794142113532.jpg',
+    image: '/src/assets/images/gas_stove_repair_3d.png',
   },
   {
     id: 'mixer-grinder-repair',
